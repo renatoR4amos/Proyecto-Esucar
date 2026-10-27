@@ -8,11 +8,9 @@ Aplicación móvil desarrollada en **Kotlin** con **Jetpack Compose** y **Room (
 
 * **Asignatura:** DSY1105 - Desarrollo de Aplicaciones Móviles
 * **Evaluación:** Evaluación Parcial 2 (Encargo - Ponderación 8%)
-* **Sede:** Duoc UC Plaza Vespucio
+* **Institución:** Duoc UC
 * **Integrantes:**
-  * Renato Ramos (Sección DSY1105)
-  * Integrante 2 (Compañero de equipo DSY1105)
-* **Planificación del Proyecto:** [Tablero en Trello / Planificación del Equipo](https://trello.com)
+  * Renato Ramos
 
 ---
 
