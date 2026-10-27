@@ -11,6 +11,7 @@ Aplicación móvil desarrollada en **Kotlin** con **Jetpack Compose** y **Room (
 * **Institución:** Duoc UC
 * **Integrantes:**
   * Renato Ramos
+  * Alex
 
 ---
 
